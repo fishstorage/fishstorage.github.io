@@ -1,11 +1,11 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
+title: 伪·红魔馆
+subtitle: 个人站
+welcome_message: 欢迎来到这个假的红魔馆
+description: 实际上是某只汀的小窝
+creator:
 
-url: "http://vno.onevcat.com"
+url: "http://www.ftmc.me"
 
 permalink: /:year/:month/:title/
 
@@ -17,7 +17,7 @@ cover_color: red
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
+    title: 博客主页
     description: Visit blog
 
 # Navigation buttons in the front page.
@@ -32,16 +32,16 @@ paginate_path: "page/:num/"
 
 # Comment
 comment:
-    disqus: vno-jekyll
-    # duoshuo: 
-    
+    # disqus: vno-jekyll
+    # duoshuo:
+
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    # weibo: onevcat
+    github: FishMagic
+    # twitter: onevcat
+    # gplus: 107108267983477358170
+    mail: fish_magic@ftmc.me
 
 # Google Analytics
 ga:
